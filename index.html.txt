@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>練習その1</TITLE>
+</HEAD>
+<BODY>
+<HI>はじめてのHTML</H1>
+HTMLの文書って、かぎっこがやたら多いと思いませんか？
+</BODY>
+</HTML>
